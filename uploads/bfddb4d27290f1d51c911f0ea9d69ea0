@@ -1,0 +1,21 @@
+date,product,category,region,sales,units_sold,profit,discount,channel
+2024-01-01,iPhone 13,Electronics,North,1200,10,300,0.10,Online
+2024-01-02,iPhone 13,Electronics,South,1500,12,350,0.08,Retail
+2024-01-03,MacBook Air,Electronics,East,2000,5,600,0.05,Online
+2024-01-04,MacBook Air,Electronics,West,1800,4,550,0.07,Retail
+2024-01-05,Samsung TV,Electronics,North,2200,8,500,0.12,Online
+2024-01-06,Samsung TV,Electronics,South,2100,7,480,0.10,Retail
+2024-01-07,Office Chair,Furniture,East,800,15,200,0.15,Online
+2024-01-08,Office Chair,Furniture,West,900,18,220,0.12,Retail
+2024-01-09,Desk,Furniture,North,1100,10,250,0.10,Online
+2024-01-10,Desk,Furniture,South,1000,9,230,0.08,Retail
+2024-01-11,Headphones,Electronics,East,600,20,150,0.20,Online
+2024-01-12,Headphones,Electronics,West,700,22,180,0.18,Retail
+2024-01-13,Mouse,Electronics,North,300,30,80,0.25,Online
+2024-01-14,Mouse,Electronics,South,350,35,90,0.20,Retail
+2024-01-15,Keyboard,Electronics,East,500,25,120,0.15,Online
+2024-01-16,Keyboard,Electronics,West,550,28,130,0.10,Retail
+2024-01-17,Laptop Stand,Accessories,North,400,12,100,0.10,Online
+2024-01-18,Laptop Stand,Accessories,South,450,14,110,0.08,Retail
+2024-01-19,Water Bottle,Accessories,East,200,40,60,0.30,Online
+2024-01-20,Water Bottle,Accessories,West,250,45,70,0.25,Retail
